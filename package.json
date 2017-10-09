@@ -1,0 +1,22 @@
+{
+  "name": "http2-server-push",
+  "version": "0.0.0",
+  "description": "Example of http2 server push",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoidCanvas/http2-server-push.git"
+  },
+  "author": "Paul Shan <paul@voidcanvas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VoidCanvas/http2-server-push/issues"
+  },
+  "homepage": "https://github.com/VoidCanvas/http2-server-push#readme",
+  "dependencies": {
+    "mime": "^2.0.3"
+  }
+}
